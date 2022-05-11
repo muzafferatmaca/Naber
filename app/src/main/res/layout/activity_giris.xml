@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#bdc3c7"
+    tools:context=".GirisActivity">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/livechat2"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Kullanıcı Adı Giriniz"
+        android:id="@+id/kullaniciAdi"
+        android:textColorHint="@color/colorAccent"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Giriş Yap"
+        android:background="#000"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:id="@+id/kayit"
+        />
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576270713770",
+    "firebase_url": "https://naber-165b4.firebaseio.com",
+    "project_id": "naber-165b4",
+    "storage_bucket": "naber-165b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576270713770:android:c24de914bb08a2dbf961d3",
+        "android_client_info": {
+          "package_name": "com.muzafferatmaca.naber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576270713770-rphns3j68hjljnih99anb87kbilme1pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muzafferatmaca.naber",
+            "certificate_hash": "25ab1f05ac88af953efa86ed503d0c4064a42656"
+          }
+        },
+        {
+          "client_id": "576270713770-8ke2gj2j0jlcdgoqhh6m7dhpqivmgv95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlh__IDNiDwit0PKd23cWv3WXbS1pKj7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576270713770-8ke2gj2j0jlcdgoqhh6m7dhpqivmgv95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
